@@ -1,0 +1,30 @@
+data-dir: /Users/heades/website/blog/metatheorem/
+
+from: markdown+emoji
+
+to: html
+
+template: ../layouts/post
+
+output-file: 
+
+input-files: []
+
+standalone: true
+
+self-contained: false
+
+highlight-style: espresso
+
+email-obfuscation: javascript
+
+metadata:
+        email: "harley.eades@gmail.com"
+
+html-math-method:
+  method: mathjax
+  url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+
+css:
+- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+- <link rel="stylesheet" href="/includes/css/proofs.css" />
