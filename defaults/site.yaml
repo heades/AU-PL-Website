@@ -25,4 +25,4 @@ html-math-method:
   url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
 
 css:
-- "/includes/css/default.css"
+- "/plweb/includes/css/default.css"

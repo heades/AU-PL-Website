@@ -1,2 +1,5 @@
 all :
-	cd .. && make
+	cd ../ && make
+
+clean :
+	cd ../ && make clean
