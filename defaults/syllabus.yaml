@@ -1,0 +1,21 @@
+data-dir: /Users/heades/teaching/CSCI-3300/website
+
+from: markdown+emoji
+
+to: pdf
+
+template: layouts/syllabus
+
+output-file: 
+
+input-files: []
+
+standalone: true
+
+self-contained: false
+
+highlight-style: pygments
+
+email-obfuscation: javascript
+metadata:
+  email: harley.eades@gmail.com
